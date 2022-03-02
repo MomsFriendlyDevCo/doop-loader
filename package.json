@@ -4,7 +4,7 @@
   "description": "A loader service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-loader.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-loader.git"
   },
   "keywords": [
     "doop"
@@ -12,10 +12,7 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-loader/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-loader/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-loader#readme",
-  "workspaces": [
-    "../*"
-  ]
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-loader#readme"
 }
